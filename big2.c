@@ -19,5 +19,5 @@ void big2 ()
         printf("Both are Equal\n");
     }
     //return 0;
-    printf{"\n this is dummy"};
+    printf("\n this is dummy");
 }
